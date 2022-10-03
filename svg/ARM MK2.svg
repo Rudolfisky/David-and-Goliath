@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ARM MK2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0255231"
+     inkscape:cx="207.69889"
+     inkscape:cy="214.03711"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2775"
+       dotted="false"
+       visible="true"
+       enabled="true"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1165-5"
+       style="fill:none;stroke:#ff0000;stroke-width:0.132416;stroke-opacity:1"
+       d="M -9.9999064 14.933972 C -9.9999064 12.200651 -12.200651 9.9999064 -14.933972 9.9999064 L -19.999813 9.9999064 C -20.27456 9.9999064 -20.543679 10.02328 -20.805965 10.066052 L -79.808565 10.066052 C -79.872126 10.063651 -79.935599 10.061401 -79.999768 10.061401 L -84.99998 10.061401 C -87.736016 10.061401 -89.938696 12.264082 -89.938696 15.000118 L -89.938696 65.000167 C -89.938696 67.736203 -87.736016 69.938883 -84.99998 69.938883 L -79.999768 69.938883 C -77.263732 69.938883 -75.061568 67.736203 -75.061568 65.000167 L -75.061568 24.933362 L -24.933879 24.933362 L -24.933879 75.000073 C -24.933879 77.733395 -22.733134 79.933622 -19.999813 79.933622 L -14.933972 79.933622 C -12.200651 79.933622 -9.9999064 77.733395 -9.9999064 75.000073 L -9.9999064 14.933972 z "
+       transform="rotate(-90)" />
+  </g>
+</svg>

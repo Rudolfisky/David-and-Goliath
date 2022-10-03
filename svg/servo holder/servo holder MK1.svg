@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg12506"
+   sodipodi:docname="servo holder MK1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12508"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4.1020923"
+     inkscape:cx="88.491427"
+     inkscape:cy="57.897283"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12874"
+       dotted="false"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs12503" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect12878"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none"
+       d="M 5.0002116 5.0002116 L 5.0002116 15.000118 L 5.0002116 30.000236 L 5.0002116 34.999931 L 9.9999064 34.999931 L 9.9999064 30.000236 L 17.999935 30.000236 L 17.999935 34.999931 L 24.000085 34.999931 L 24.000085 30.000236 L 32.000114 30.000236 L 32.000114 34.999931 L 36.999809 34.999931 L 36.999809 30.000236 L 36.999809 15.000118 L 36.999809 5.0002116 L 32.000114 5.0002116 L 32.000114 15.000118 L 9.9999064 15.000118 L 9.9999064 5.0002116 L 5.0002116 5.0002116 z " />
+    <path
+       id="rect12897-0"
+       style="fill:none;stroke:#ff0000;stroke-width:0.125183;stroke-dasharray:none"
+       d="M 10.03763 40.00531 L 10.03763 45.05048 L 5.0503377 45.05048 L 5.0503377 64.949524 L 36.949166 64.949524 L 36.949166 45.05048 L 31.96239 45.05048 L 31.96239 40.00531 L 24.037809 40.00531 L 24.037809 45.05048 L 17.962211 45.05048 L 17.962211 40.00531 L 10.03763 40.00531 z " />
+  </g>
+</svg>
